@@ -70,7 +70,7 @@ class Dragon: NSObject {
         }
         
         checkIfHungry(isHungry: false)
-        action = "EATING CAKES"
+        action = "EATING CANDIES"
     }
     
     func isHungry() -> Bool {
