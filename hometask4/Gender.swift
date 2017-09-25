@@ -6,8 +6,4 @@
 //  Copyright © 2017 Alesia. All rights reserved.
 //
 
-import Foundation
 
-enum Gender {
-    case male, female
-}
